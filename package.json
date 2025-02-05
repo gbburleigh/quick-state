@@ -1,0 +1,19 @@
+{
+  "name": "quick-state",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbburleigh/quick-state.git"
+  },
+  "author": "Graham Burleigh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbburleigh/quick-state/issues"
+  },
+  "homepage": "https://github.com/gbburleigh/quick-state#readme",
+  "description": ""
+}
